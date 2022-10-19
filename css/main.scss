@@ -24,6 +24,7 @@ ul {
     list-style: none;
     margin: 0;
     padding: 0;
+    
 }
 
 .main-bg, .social, .pagination {
@@ -153,7 +154,7 @@ ul.pagination {
     top: 2em;
 }
 
-@media (min-width: 550px) {
+@media (min-width: 580px) {
     body {
         font-size: 18px;
     }

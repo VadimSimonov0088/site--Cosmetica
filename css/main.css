@@ -146,7 +146,7 @@ ul.pagination .active:before {
   top: 2em;
 }
 
-@media (min-width: 550px) {
+@media (min-width: 580px) {
   body {
     font-size: 18px;
   }
